@@ -1,0 +1,7 @@
+\\Keenetic-9922\внешний диск\сетевое программирование\FTP\FTP\bin\Debug\FTP.exe.config
+\\Keenetic-9922\внешний диск\сетевое программирование\FTP\FTP\bin\Debug\FTP.exe
+\\Keenetic-9922\внешний диск\сетевое программирование\FTP\FTP\bin\Debug\FTP.pdb
+\\Keenetic-9922\внешний диск\сетевое программирование\FTP\FTP\obj\Debug\FTP.csproj.AssemblyReference.cache
+\\Keenetic-9922\внешний диск\сетевое программирование\FTP\FTP\obj\Debug\FTP.csproj.CoreCompileInputs.cache
+\\Keenetic-9922\внешний диск\сетевое программирование\FTP\FTP\obj\Debug\FTP.exe
+\\Keenetic-9922\внешний диск\сетевое программирование\FTP\FTP\obj\Debug\FTP.pdb
